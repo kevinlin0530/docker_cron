@@ -8,14 +8,14 @@ Make sure you have Docker installed on your machine.
 
 - [Docker](https://docs.docker.com/get-docker/)
 
-### Build the Docker Image
+## Build the Docker Image
 
 Open a terminal and navigate to the project directory.
 
 ```bash
 docker build -t cron .
 ```
-### Run the Docker Container
+## Run the Docker Container
 
 Execute the following command to run the Docker container in detached mode.
 
