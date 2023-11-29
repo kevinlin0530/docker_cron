@@ -18,9 +18,9 @@ docker build -t cron .
 ## Run the Docker Container
 
 Execute the following command to run the Docker container in detached mode.
-
+```bash
 docker run --name cron -d cron
-
+```
 ## Schedule the Web Scraper
 The web scraper is set to run every hour and fetch data from the web. The results will be stored in the database.
 
