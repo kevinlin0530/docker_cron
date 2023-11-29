@@ -16,6 +16,7 @@ Open a terminal and navigate to the project directory.
 docker build -t cron .
 ```
 ### Run the Docker Container
+
 Execute the following command to run the Docker container in detached mode.
 
 docker run --name cron -d cron
