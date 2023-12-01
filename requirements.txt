@@ -4,3 +4,4 @@ BeautifulSoup4
 tzdata==2023.3
 Pillow==10.0.0
 pymysql
+redis
