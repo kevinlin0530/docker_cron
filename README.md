@@ -34,10 +34,16 @@ To stop the running container, use the following command:
 docker stop cron
 ```
 
-To remove the container, run:
+To remove the container:
 
 ```bash
 docker rm cron
+```
+
+To restart the container:
+
+```bash
+docker restart container
 ```
 
 Configuration
